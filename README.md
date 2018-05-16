@@ -1,3 +1,4 @@
+```HTML
 An algorithmic calender program in 8086 assemble programming.   
 
 Why constructed?
@@ -6,6 +7,7 @@ Why constructed?
   the manipulation of big data. 
   
 How it was constructed?
+
   First: was figuring out how to write a single digit to a space.
   Second: Afterwards was to create a loop that increase the number and coordinate.
       looping: increase date number 
@@ -13,7 +15,7 @@ How it was constructed?
                print to that coordinate
                repeat looping
   Third: The rest was dealing with dates and leap years which just became more of a flow control.
-  
+
  How to run?
     You can run it using it emu8086 or used vim like i did. 
       http://www.emu8086.com/
