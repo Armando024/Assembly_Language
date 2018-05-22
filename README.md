@@ -21,7 +21,7 @@
       http://www.emu8086.com/
     You can also used TASM which can be found in the internet.
 ## Want to see it run?
-* [click here](http://aaguirre.io/#projects) - Scroll to the projects section
+* [click here](http://aaguirre.io) - Scroll to the projects section
     
     
   
