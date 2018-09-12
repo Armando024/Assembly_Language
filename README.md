@@ -17,7 +17,7 @@
   Third: The rest was dealing with dates and leap years which just became more of a flow control.
 
  ## How to run?
-    You can run it using it emu8086 or used vim like i did. 
+    You can run it using it emu8086. 
       http://www.emu8086.com/
     You can also used TASM which can be found in the internet.
 ## Example gif
