@@ -20,7 +20,7 @@
     You can run it using it emu8086 or used vim like i did. 
       http://www.emu8086.com/
     You can also used TASM which can be found in the internet.
-## Want to see it run?
+## Example gif
 <img src="https://github.com/Armando024/old_aaguirre/blob/master/static/cal.gif" width="600" height="375.75" />
     
     
